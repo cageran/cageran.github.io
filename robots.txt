@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cageran.github.io/sitemap.html.gz
+Sitemap: https://cageran.github.io/app/sitemap.html.gz
+Sitemap: https://cageran.github.io/assets/sitemap.html.gz
+Sitemap: https://cageran.github.io/css/sitemap.html.gz
+Sitemap: https://cageran.github.io/includes/sitemap.html.gz
+Sitemap: https://cageran.github.io/item/sitemap.html.gz
+Sitemap: https://cageran.github.io/src/sitemap.html.gz
